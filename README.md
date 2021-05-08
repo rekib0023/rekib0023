@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Rekib's github stats](https://github-readme-stats.vercel.app/api?username=rekib0023&count_private=true&show_icons=true&include_all_commit=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekib0023&hide=JupyterNotebook&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekib0023&hide=jupyter%20notebook&langs_count=8&layout=compact)
