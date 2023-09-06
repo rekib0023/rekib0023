@@ -19,7 +19,7 @@
 </p>
 
 ## Experience
-#### Coditation Systems Pvt. Ltd. — Software Consultant
+#### Coditation Systems Pvt. Ltd. — Software Development Engineer
 <h6>Oct 2021 - Present (1 Year 11 Months)</h6>
 Coditation Systems is a service-oriented company where I have honed many skills while collaborating with four clients during my tenure.
 
